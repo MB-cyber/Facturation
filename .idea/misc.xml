@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Gateway-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Facture-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Produit-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Client-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/vente/Eureka-Discovery/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

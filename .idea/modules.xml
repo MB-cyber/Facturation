@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vente/Client-Service/Client-Service.iml" filepath="$PROJECT_DIR$/vente/Client-Service/Client-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/Config-service/Config-service.iml" filepath="$PROJECT_DIR$/vente/Config-service/Config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/Eureka-Discovery/Eureka-Discovery.iml" filepath="$PROJECT_DIR$/vente/Eureka-Discovery/Eureka-Discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Facturation.iml" filepath="$PROJECT_DIR$/.idea/Facturation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/Facture-Service/Facture-Service.iml" filepath="$PROJECT_DIR$/vente/Facture-Service/Facture-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/Gateway-Service/Gateway-Service.iml" filepath="$PROJECT_DIR$/vente/Gateway-Service/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/Produit-Service/Produit-Service.iml" filepath="$PROJECT_DIR$/vente/Produit-Service/Produit-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vente/fact-ennvs/fact-ennvs.iml" filepath="$PROJECT_DIR$/vente/fact-ennvs/fact-ennvs.iml" />
+    </modules>
+  </component>
+</project>
